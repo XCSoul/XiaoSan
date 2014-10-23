@@ -1,0 +1,6 @@
+Hero = require("MyClass.Hero")
+GameScene = require("app.scenes.GameScene")
+TouchLayer = require("MyClass.TouchLayer")
+LoadingScene = require("app.scenes.LoadingScene")
+MainScene = require("app.scenes.MainScene")
+Dragon = require("MyClass.Dragon")
